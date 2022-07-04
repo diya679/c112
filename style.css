@@ -1,0 +1,11 @@
+body {
+    color: rgb(16, 15, 30);
+    background: rgb(237, 237, 151);
+}
+.heading {
+    width: 80%;
+    font-size: 22px;
+}
+.name_of_object {
+    color:burlywood ;
+}
